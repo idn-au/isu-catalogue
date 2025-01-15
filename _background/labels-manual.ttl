@@ -1,0 +1,30 @@
+PREFIX schema: <https://schema.org/>
+
+
+<https://orcid.org/0000-0002-4797-9776>
+    schema:name "Aaron Corn"
+.
+
+<https://orcid.org/0000-0002-1398-7524>
+    schema:name "Marcia Langton"
+.
+
+<http://purl.org/spar/fabio/BookChapter>
+    schema:name "Book Chapter" ;
+.
+
+<http://id.loc.gov/vocabulary/marcgt/boo>
+    schema:name "book" ;
+.
+
+<https://orcid.org/0000-0002-0346-2820>
+    schema:name "Kristen Smith" ;
+.
+
+<https://linked.data.gov.au/org/uom>
+    schema:name "University of Melbourne" ;
+.
+
+<http://id.loc.gov/vocabulary/marcgt/art>
+    schema:name "article" ;
+.

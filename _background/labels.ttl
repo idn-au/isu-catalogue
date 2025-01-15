@@ -96,9 +96,17 @@ schema:url
     schema:name "url" ;
 .
 
-<http://linked.data.gov.au/org/isu>
+<https://linked.data.gov.au/org/isu>
     a schema:Organization ;
     schema:name "Indigenous Studies Unit" ;
     schema:url "https://mspgh.unimelb.edu.au/centres-institutes/onemda/research-group/indigenous-studies-unit" ;
-    schema:parentOrganization <http://linked.data.gov.au/org/uom> ;
+    schema:parentOrganization <https://linked.data.gov.au/org/uom> ;
+.
+
+<https://olis.dev/isAliasFor>
+    schema:name "is alias for" ;
+.
+
+<https://olis.dev/VirtualGraph>
+    schema:name "Virtual Graph" ;
 .

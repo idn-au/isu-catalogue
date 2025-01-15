@@ -22,10 +22,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://doi.org/10.3138/9781442624986-020> ;
     reg:status astatus:experimental ;
     schema:codeRepository "https://github.com/idn-au/isu-catalogue" ;
-    schema:creator <http://linked.data.gov.au/org/isu> ;
+    schema:creator <https://linked.data.gov.au/org/isu> ;
     schema:dateCreated "2025-01-14"^^xsd:date ;
     schema:dateModified "2025-01-14"^^xsd:date ;
     schema:description "The Indigenous studies Unit's catalogue of publications and artifacts" ;
     schema:name "ISU Catalogue" ;
-    schema:publisher <http://linked.data.gov.au/org/isu> ;
+    schema:publisher <https://linked.data.gov.au/org/isu> ;
 .
