@@ -1,8 +1,9 @@
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://doi.org/10.3138/9781442624986-020>
-    a schema:CreativeWork ;
+    a dcat:Resource ;
     schema:additionalType <http://purl.org/spar/fabio/BookChapter> ;
     schema:creator "Davis, M. & Langton, M" ;
     schema:dateCreated "2016"^^xsd:gYear ;

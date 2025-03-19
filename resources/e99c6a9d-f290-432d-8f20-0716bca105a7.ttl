@@ -1,8 +1,9 @@
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://data.idnau.org/pid/e99c6a9d-f290-432d-8f20-0716bca105a7>
-    a schema:CreativeWork ;
+    a dcat:Resource ;
     schema:additionalType <http://id.loc.gov/vocabulary/marcgt/boo> ;
     schema:creator "Davis, M. & Langton, M." ;
     schema:dateCreated "2016"^^xsd:gYear ;

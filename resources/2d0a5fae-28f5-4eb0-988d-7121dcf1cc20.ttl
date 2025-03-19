@@ -1,8 +1,9 @@
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://doi.org/10.1002/ajs4.200>
-    a schema:CreativeWork ;
+    a dcat:Resource ;
     schema:additionalType <http://id.loc.gov/vocabulary/marcgt/art> ;
     schema:creator "Chamberlain, C., Gray, P., Bennet, D., Elliott, A., Jackomos, M., Krakouer, J., ... Langton, M." ;
     schema:dateCreated "2022"^^xsd:gYear ;

@@ -19,6 +19,11 @@ dcat:Catalog
     schema:name "Catalog"@en ;
 .
 
+dcat:Resource
+    schema:description "Resource published or curated by a single agent."@en ;
+    schema:name "Catalogued resource"@en ;
+.
+
 dcat:downloadURL
     schema:description "The URL of the downloadable file in a given format. E.g. CSV file or RDF file. The format is indicated by the distribution's dct:format and/or dcat:mediaType."@en ;
     schema:name "download URL"@en ;

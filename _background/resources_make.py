@@ -12,7 +12,8 @@ with (open("datasets.csv") as f):
         g = Graph()
 
         r = URIRef(row["IRI"])
-        g.add((r, RDF.type, SDO.CreativeWork))
+        # g.add((r, RDF.type, SDO.CreativeWork))
+        g.add((r, RDF.type, DCAT.Resource))
 
         if len(row["dcterms:issued"]) > 0:
             if len(row["dcterms:issued"]) == 4:

@@ -3,7 +3,7 @@ PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://data.idnau.org/pid/167f973a-1bf4-4528-82af-b737c8f173f9>
-    a schema:CreativeWork ;
+    a dcat:Resource ;
     schema:additionalType <http://id.loc.gov/vocabulary/marcgt/boo> ;
     schema:creator
         <https://orcid.org/0000-0002-0346-2820> ,
