@@ -4,11 +4,13 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://data.idnau.org/pid/MPF1289>
     a schema:CreativeWork ;
-    dcat:theme <https://vocabularyserver.com/apais/xml.php?skosTema=553> ;
-    schema:URL <https://policy.unimelb.edu.au/MPF1289/> ;
+    schema:keywords <https://vocabularyserver.com/apais/xml.php?skosTema=553> ;
+    schema:url "https://policy.unimelb.edu.au/MPF1289/"^^xsd:anyURI ;
     schema:additionalType <http://purl.org/spar/fabio/PolicyDocument> ;
     schema:creator <https://data.idnau.org/pid/organization/caba7638-6113-4a75-8e42-9d4110ff49d6> ;
+    schema:publisher <https://data.idnau.org/pid/org/isu> ;
     schema:dateCreated "2021"^^xsd:gYear ;
+    schema:dateModified "2021"^^xsd:gYear ;
     schema:description "The objective of this policy is to articulate the University’s responsibilities for managing Aboriginal and Torres Strait Islander cultural heritage."@en ;
     schema:identifier "MPF1289" ;
     schema:name "Aboriginal and Torres Strait Islander Cultural Heritage Policy" ;
