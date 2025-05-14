@@ -1,6 +1,6 @@
 # ISU Catalogue
 
-This is the source data of the [University of Melbourne](https://www.unimelb.edu.au/)'s [Indigenous Studies Unit](https://mspgh.unimelb.edu.au/centres-institutes/onemda/research-group/indigenous-studies-unit)'s catalogue which has been established as part of 
+This is the source data of the [University of Melbourne](https://www.unimelb.edu.au/)'s [Indigenous Studies Unit](https://mspgh.unimelb.edu.au/centres-institutes/onemda/research-group/indigenous-studies-unit)'s [catalogue](https://data.idnau.org/pid/isucat) which has been established as part of 
 the [Indigenous Data Network](https://idnau.org/)'s Catalogue Project.
 
 This catalogue is online at:
