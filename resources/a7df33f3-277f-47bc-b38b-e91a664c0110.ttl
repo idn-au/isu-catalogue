@@ -1,3 +1,4 @@
+PREFIX id: <http://id.loc.gov/vocabulary/identifiers/>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
@@ -9,7 +10,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://orcid.org/0000-0002-4797-9776> ;
     schema:dateCreated "2019"^^xsd:gYear ;
     schema:description "A curated guidebook that offers insights into Indigenous languages and customs, history, native title, art and dance, storytelling, and cultural awareness and etiquette for visitors. There is also a directory of Indigenous tourism experiences, organised by state or territory, covering galleries and festivals, national parks and museums, communities that are open to visitors, as well as tours and performances." ;
-    schema:identifier "9781741176667"^^<http://example.com/IBN> ;
+    schema:identifier "9781741176667"^^id:isbn ;
     schema:keywords "Culture" ;
     schema:name "Welcome to Country: An Introduction to Our First Peoples for Young Australians" ;
 .
