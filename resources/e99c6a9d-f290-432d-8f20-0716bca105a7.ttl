@@ -6,6 +6,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a schema:CreativeWork ;
     schema:additionalType <http://id.loc.gov/vocabulary/marcgt/boo> ;
     schema:creator "Davis, M. & Langton, M." ;
+    schema:publisher <https://data.idnau.org/pid/org/isu> ;
     schema:dateCreated "2016"^^xsd:gYear ;
     schema:description "It's Our Country: Indigenous Arguments for Meaningful Constitutional Recognition and Reform is a collection of essays by Aboriginal and Torres Strait Islander thinkers and leaders including Patrick Dodson, Noel Pearson, Dawn Casey, Nyunggai Warren Mundine and Mick Mansell. Each essay explores what recognition and constitutional reform might achieve—or not achieve—for Indigenous people." ;
     schema:identifier "9780522869934"^^id:isbn ;
