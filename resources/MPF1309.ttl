@@ -8,7 +8,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     schema:creator
         <https://data.idnau.org/pid/org/028b1502-96aa-421d-af0a-9ac2d8c1f5f2> ,
         <https://data.idnau.org/pid/org/1b668e93-9160-48af-a060-5a91363f8e24> ;
-    schema:publisher <https://data.idnau.org/pid/org/isu> ;
+    schema:publisher <https://linked.data.gov.au/org/isu> ;
     schema:dateCreated "2024"^^xsd:gYear ;
     schema:dateModified "2024"^^xsd:gYear ;
     schema:description "The objective of this policy is to articulate a framework for developing and managing Collections."@en ;

@@ -28,3 +28,35 @@ PREFIX schema: <https://schema.org/>
 <http://id.loc.gov/vocabulary/marcgt/art>
     schema:name "article" ;
 .
+
+<https://data.idnau.org/pid/org/17737896-200a-4ac1-96a0-2b6ff3fa1b05>
+    schema:name "" ;
+.
+
+<https://data.idnau.org/pid/org/caba7638-6113-4a75-8e42-9d4110ff49d6>
+    schema:name "" ;
+.
+
+<https://linked.data.gov.au/def/policy/3f74d52e-2aec-4a8c-a643-34d43c2cbac7>
+    schema:name "" ;
+.
+
+<https://vocabularyserver.com/apais/xml.php?skosTema=2>
+    schema:name "" ;
+.
+
+<https://vocabularyserver.com/apais/xml.php?skosTema=553>
+    schema:name "" ;
+.
+
+<https://data.idnau.org/pid/org/1b668e93-9160-48af-a060-5a91363f8e24>
+    schema:name "" ;
+.
+
+<https://data.idnau.org/pid/org/028b1502-96aa-421d-af0a-9ac2d8c1f5f2>
+    schema:name "" ;
+.
+
+<https://data.idnau.org/pid/org/1035ce81-c6b1-4c67-85f5-5213ad0bcf6c>
+    schema:name "" ;
+.
