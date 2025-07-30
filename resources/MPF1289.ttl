@@ -7,7 +7,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     schema:keywords <https://vocabularyserver.com/apais/xml.php?skosTema=553> ;
     schema:url "https://policy.unimelb.edu.au/MPF1289/"^^xsd:anyURI ;
     schema:additionalType <http://purl.org/spar/fabio/PolicyDocument> ;
-    schema:creator <https://data.idnau.org/pid/org/caba7638-6113-4a75-8e42-9d4110ff49d6> ;
+    schema:creator <https://data.idnau.org/pid/org/7fb4c3c8-2317-4cfd-b5b8-b1c6a8c6e321> ;
     schema:publisher <https://linked.data.gov.au/org/isu> ;
     schema:dateCreated "2021"^^xsd:gYear ;
     schema:dateModified "2021"^^xsd:gYear ;
