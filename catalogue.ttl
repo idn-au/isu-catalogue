@@ -28,8 +28,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     schema:codeRepository "https://github.com/idn-au/isu-catalogue" ;
     schema:creator <https://linked.data.gov.au/org/isu> ;
     schema:dateCreated "2025-01-14"^^xsd:date ;
-    schema:dateModified "2025-01-14"^^xsd:date ;
-    schema:description "The Indigenous studies Unit's catalogue of publications and artifacts" ;
-    schema:name "ISU Catalogue" ;
+    schema:dateModified "2025-08-15"^^xsd:date ;
+    schema:description "The Indigenous Studies Unit's catalogue of publications and artifacts" ;
+    schema:name "Indigenous Studies Unit Catalogue" ;
     schema:publisher <https://linked.data.gov.au/org/isu> ;
 .
