@@ -1,7 +1,6 @@
 PREFIX astatus: <https://linked.data.gov.au/def/reg-statuses/>
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
-PREFIX reg: <http://purl.org/linked-data/registry#>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
@@ -24,11 +23,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://doi.org/10.1111/eip.13184> ,
         <https://doi.org/10.1111/jpc.15701> ,
         <https://doi.org/10.3138/9781442624986-020> ;
-    reg:status astatus:experimental ;
+    schema:status astatus:experimental ;
     schema:codeRepository "https://github.com/idn-au/isu-catalogue" ;
     schema:creator <https://linked.data.gov.au/org/isu> ;
     schema:dateCreated "2025-01-14"^^xsd:date ;
-    schema:dateModified "2025-08-15"^^xsd:date ;
+    schema:dateModified "2025-08-26"^^xsd:date ;
     schema:description "The Indigenous Studies Unit's catalogue of publications and artifacts" ;
     schema:name "Indigenous Studies Unit Catalogue" ;
     schema:publisher <https://linked.data.gov.au/org/isu> ;
