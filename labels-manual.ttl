@@ -29,34 +29,31 @@ PREFIX schema: <https://schema.org/>
     schema:name "article" ;
 .
 
-<https://data.idnau.org/pid/org/17737896-200a-4ac1-96a0-2b6ff3fa1b05>
-    schema:name "" ;
-.
-
-<https://data.idnau.org/pid/org/caba7638-6113-4a75-8e42-9d4110ff49d6>
-    schema:name "" ;
+<https://data.idnau.org/pid/org/7fb4c3c8-2317-4cfd-b5b8-b1c6a8c6e321> 
+    schema:name "Aboriginal & Torres Strait Islander Cultural Heritage Oversight Committee" ;
+    schema:description "advises the Provost and Vice President, Strategy and Culture on the implementation of the University's Aboriginal and Torres Strait Islander Cultural Heritage Policy, which outlines the principles by which the University will manage Aboriginal and Torres Strait Islander Ancestral Remains and cultural heritage, including with respect to the built and landscape environment." ;
 .
 
 <https://linked.data.gov.au/def/policy/3f74d52e-2aec-4a8c-a643-34d43c2cbac7>
-    schema:name "" ;
+    schema:name "Repatriation of historic human remains"@en ;
+    schema:description "The process of returning human remains to their communities of origin. This process can help create healing and reconciliation for the descendants of those remains."@en ;
+.
+
+<https://terms.codata.org/rdmt/indigenous-data>
+    schema:name "Indigenous data"@en ;
+    schema:description "Data that pertains to (is created or gathered by, or is about) Indigenous peoples."@en ;
 .
 
 <https://vocabularyserver.com/apais/xml.php?skosTema=2>
-    schema:name "" ;
+    schema:name "Aboriginal archaeology"@en ;
+    schema:description "Aboriginal archaeology"@en ;
 .
 
 <https://vocabularyserver.com/apais/xml.php?skosTema=553>
-    schema:name "" ;
+    schema:name "Culture" ;
+    schema:description "Culture" ;
 .
 
-<https://data.idnau.org/pid/org/1b668e93-9160-48af-a060-5a91363f8e24>
-    schema:name "" ;
-.
-
-<https://data.idnau.org/pid/org/028b1502-96aa-421d-af0a-9ac2d8c1f5f2>
-    schema:name "" ;
-.
-
-<https://data.idnau.org/pid/org/1035ce81-c6b1-4c67-85f5-5213ad0bcf6c>
-    schema:name "" ;
+<http://id.loc.gov/vocabulary/identifiers/isbn>
+    schema:name "International standard book number" ;
 .
