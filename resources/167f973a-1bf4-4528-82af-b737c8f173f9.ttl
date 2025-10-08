@@ -11,6 +11,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://orcid.org/0000-0002-1398-7524> ;
     schema:publisher <https://linked.data.gov.au/org/isu> ;
     schema:dateCreated "2019"^^xsd:gYear ;
+    dcterms:modified "2025"^^xsd:gYear ;
     schema:description "Since 2002, Alcohol Management Plans (AMPs) have been used in many Indigenous communities as a framework to reduce alcohol-related harms. (Smith et al., 2013). This report outlines the findings of an ethnographic research project which gathered and analysed the AMP in the remote Indigenous community of Pormpuraaw on the western coast of Cape York Peninsula in far north Queensland. The qualitative and quantitative evidence examined in this project shows a significant reduction in alcohol-related harms following the introduction of the AMP. It offers nuanced understandings of how AMPs are understood, investigates their effectiveness in responding to alcohol-related harms and examines community engagement in their design, implementation and evaluation. This research increases knowledge about local residents’ experiences and understandings of AMPs.This can inform an appropriate policy framework that effectively responds to the harms associated with alcohol misuse." ;
     schema:distribution
         [
@@ -19,4 +20,5 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     schema:identifier "9780648426776"^^id:isbn ;
     schema:keywords "Aboriginal health" ;
     schema:name "The Alcohol Management Plan at Pormpuraaw, Queensland, Australia: An ethnographic community-based study" ;
+    dcterms:spatial <https://sws.geonames.org/8310768/about.rdf>
 .
