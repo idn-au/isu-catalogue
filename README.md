@@ -5,7 +5,7 @@ the [Indigenous Data Network](https://idnau.org/)'s Catalogue Project.
 
 This catalogue is online at:
 
-- https://data.dev.idnau.org/catalogs/pid:isu-catalogue
+- https://data.idnau.org/catalogs/pid:isu-catalogue
 
 
 ## Catalogue Resources
