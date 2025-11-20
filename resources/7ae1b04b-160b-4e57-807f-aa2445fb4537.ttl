@@ -1,9 +1,0 @@
-PREFIX schema: <https://schema.org/>
-
-<https://data.idnau.org/pid/7ae1b04b-160b-4e57-807f-aa2445fb4537>
-    a schema:CreativeWork ;
-    schema:additionalType "David Duran House Short Term Archive" ;
-    schema:creator <https://linked.data.gov.au/org/isu> ;
-    schema:description "Room with archival boxes at David Duran House, Universit of Melbourne, belonging to the Indigenous Studies Unit" ;
-    schema:name "Archival boxes" ;
-.
