@@ -2,6 +2,7 @@ PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX mrr: <https://prez.dev/ManifestResourceRoles/>
 PREFIX prez: <https://prez.dev/>
 PREFIX prof: <http://www.w3.org/ns/dx/prof/>
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology/>
 PREFIX schema: <https://schema.org/>
 
 []
@@ -18,6 +19,16 @@ PREFIX schema: <https://schema.org/>
             prof:hasRole mrr:ResourceData ;
             schema:description "sdo:CreativeWork objects in RDF (Turtle) files in the resources/ folder" ;
             schema:name "Resource Data" ;
+            # dcterms:conformsTo <https://data.idnau.org/pid/cp> ;
+        ] ,
+        [
+            prof:hasArtifact "resources/isu-archive.ttl" ;
+            prof:hasRole mrr:ResourceData ;
+            schema:description "sdo:CreativeWork objects in RDF (Turtle) files in the resources/ folder" ;
+            schema:name "Resource Data" ;
+            schema:additionalType
+                schema:CreativeWork ,
+                rico:RecordResource ;
             # dcterms:conformsTo <https://data.idnau.org/pid/cp> ;
         ] ,
         [
