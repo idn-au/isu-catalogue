@@ -1,9 +1,10 @@
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://data.idnau.org/pid/MPF1226>
     a schema:CreativeWork ;
-    schema:keywords
+    dcat:theme
         <https://linked.data.gov.au/def/policy/3f74d52e-2aec-4a8c-a643-34d43c2cbac7> ,
         <https://vocabularyserver.com/apais/xml.php?skosTema=2> ;
     schema:url "https://policy.unimelb.edu.au/MPF1226/"^^xsd:anyURI ;
