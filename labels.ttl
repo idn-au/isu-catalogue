@@ -181,3 +181,13 @@ schema:Organization
     schema:description "An organization such as a school, NGO, corporation, club, etc." ;
     schema:name "Organization" ;
 .
+
+schema:validFrom
+    schema:description "The date when the item becomes valid." ;
+    schema:name "valid from" ;
+.
+
+<http://www.w3.org/ns/odrl/2/hasPolicy>
+    schema:description "Identifies an ODRL Policy for which the identified Asset is the target Asset to all the Rules." ;
+    schema:name "has policy" ;
+.

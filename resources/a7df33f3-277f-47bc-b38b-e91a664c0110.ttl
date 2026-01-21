@@ -1,4 +1,5 @@
 PREFIX id: <http://id.loc.gov/vocabulary/identifiers/>
+PREFIX odrl: <http://www.w3.org/ns/odrl/2/>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
@@ -14,4 +15,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     schema:identifier "9781741176667"^^id:isbn ;
     schema:keywords "Culture" ;
     schema:name "Welcome to Country: An Introduction to Our First Peoples for Young Australians" ;
+    odrl:hasPolicy
+        <https://data.idnau.org/pid/MPF1309> ,
+        <https://data.idnau.org/pid/MPF1242> ,
+        <https://data.idnau.org/pid/MPF1289> ;
 .
