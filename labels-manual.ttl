@@ -57,3 +57,59 @@ PREFIX schema: <https://schema.org/>
 <http://id.loc.gov/vocabulary/identifiers/isbn>
     schema:name "International standard book number" ;
 .
+
+<https://www.ica.org/standards/RiC/ontology/Place>
+    schema:name "Place" ;
+.
+
+<https://www.ica.org/standards/RiC/ontology/Record>
+    schema:name "Record" ;
+.
+
+<https://www.ica.org/standards/RiC/ontology/RecordResource>
+    schema:name "Record Resource" ;
+.
+
+<https://www.ica.org/standards/RiC/ontology/RecordSet>
+    schema:name "Record Set" ;
+.
+
+<https://www.ica.org/standards/RiC/ontology/generalDescription>
+    schema:name "general description" ;
+.
+
+<https://www.ica.org/standards/RiC/ontology/hasDirectPart>
+    schema:name "has direct part" ;
+.
+
+<https://www.ica.org/standards/RiC/ontology/hasOrHadLocation>
+    schema:name "has or had location" ;
+.
+
+<https://www.ica.org/standards/RiC/ontology/name>
+    schema:name "name" ;
+.
+
+<https://schema.org/color>
+    schema:name "colour" ;
+.
+
+<https://schema.org/spatialCoverage>
+    schema:name "spatial coverage" ;
+.
+
+<https://schema.org/temporalCoverage>
+    schema:name "temporal coverage" ;
+.
+
+<https://schema.org/status>
+    schema:name "status" ;
+.
+
+<https://sws.geonames.org/8310768/>
+    schema:name "Pormpuraaw" ;
+.
+
+<http://www.w3.org/ns/dcat#theme>
+    schema:name "theme" ;
+.
