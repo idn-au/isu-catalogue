@@ -9,6 +9,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     schema:creator "Langton, M., Corn A." ;
     schema:publisher <https://linked.data.gov.au/org/isu> ;
     schema:dateCreated "2023"^^xsd:gYear ;
+    schema:dateModified "2026-01-22"^^xsd:date ;
     schema:description "The authors show how Indigenous law has enabled people to survive and thrive in Australia for more than 2000 generations. Nurturing people and places, law is the foundation of all Indigenous societies in Australia, giving them the tools to respond and adapt to major environmental and social changes." ;
     schema:identifier "9781760762827"^^id:isbn ;
     schema:keywords "Law" ;
