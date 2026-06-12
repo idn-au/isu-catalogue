@@ -7,8 +7,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         schema:CreativeWork ,
         rico:RecordResource ;
+    skos:historyNote "Created by Casey in late 2025 by visually inspecting the archives" ;
     schema:creator <https://linked.data.gov.au/org/isu> ;
-    schema:publisher <https://linked.data.gov.au/org/isu> ;
+    schema:dateCreated "2025-11-21"^^xsd:date ;
+    schema:dateModified "2026-01-22"^^xsd:date ;
     schema:description "Room with archival boxes at David Duran House, University of Melbourne, belonging to the Indigenous Studies Unit" ;
     schema:hasPart
         <https://data.idnau.org/pid/resource/isu-archive/box-15> ,
@@ -24,9 +26,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             schema:validFrom "2025-09-17"^^xsd:date ;
         ] ;
     schema:name "David Duran House Short Term Archive" ;
-    schema:dateCreated "2025-11-21"^^xsd:date ;
-    schema:dateModified "2026-01-22"^^xsd:date ;
-    skos:historyNote "Created by Casey in late 2025 by visually inspecting the archives" ;
+    schema:publisher <https://linked.data.gov.au/org/isu> ;
 .
 
 <https://data.idnau.org/pid/resource/isu-archive/box-15>
@@ -879,4 +879,3 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         ] ;
     schema:name "Box 9: Marcia Langton's Archive, Bookcase, Shelf" ;
 .
-

@@ -19,7 +19,7 @@ PREFIX schema: <https://schema.org/>
             prof:hasRole mrr:ResourceData ;
             schema:description "sdo:CreativeWork objects in RDF (Turtle) files in the resources/ folder" ;
             schema:name "Resource Data" ;
-            # dcterms:conformsTo <https://data.idnau.org/pid/cp> ;
+            # dcterms:conformsTo <https://data.idnau.org/pid/cp/validator> ;
         ] ,
         [
             prof:hasArtifact "resources/isu-archive.ttl" ;
@@ -29,7 +29,7 @@ PREFIX schema: <https://schema.org/>
             schema:additionalType
                 schema:CreativeWork ,
                 rico:RecordResource ;
-            # dcterms:conformsTo <https://data.idnau.org/pid/cp> ;
+            # dcterms:conformsTo <https://data.idnau.org/pid/cp/validator> ;
         ] ,
         [
             prof:hasArtifact "https://github.com/RDFLib/prez/blob/main/prez/reference_data/profiles/ogc_records_profile.ttl" ;
