@@ -8,7 +8,8 @@ PREFIX ror: <https://ror.org/>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-:7460bb2c-33dd-4b11-8935-12d57fae901f a schema:ResearchProject ;
+:7460bb2c-33dd-4b11-8935-12d57fae901f
+    a schema:CreativeWork, schema:ResearchProject ;
     prov:qualifiedAttribution
         [a prov:Attribution ;
         schema:roleName dataroles:projectParticipant ;
